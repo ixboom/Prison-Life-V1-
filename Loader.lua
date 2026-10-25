@@ -3,7 +3,7 @@ local GamePlaceIDs = {
 }
 
 if not GamePlaceIDs[game.PlaceId] then
-    game.Players.LocalPlayer:Kick("BoomingHub | This game is not supported.")
+    game.Players.LocalPlayer:Kick("Veil Hub | This game is not supported.")
     return
 end
 
