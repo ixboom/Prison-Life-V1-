@@ -1,5 +1,5 @@
 local GamePlaceIDs = {
-    [155615604] = "https://raw.githubusercontent.com/ixboom/Prison-Life-Source/refs/heads/main/BoomingHubSource.txt"; -- prison life
+    [155615604] = "https://raw.githubusercontent.com/ixboom/Prison-Life-Source/refs/heads/main/BoomingHubSource.lua"; -- prison life
 }
 
 if not GamePlaceIDs[game.PlaceId] then
